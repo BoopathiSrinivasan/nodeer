@@ -1,0 +1,5 @@
+[safe]
+	directory = /home/node
+[user]
+	name = ja
+	mail = ja@gmail.com
